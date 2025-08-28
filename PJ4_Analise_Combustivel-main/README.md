@@ -1,17 +1,3 @@
-# PETALBR 
-
-Somos a PETALBR, uma empresa que trabalha junto ao setor de biocombustíveis realizando análises e estruturando métricas através de dados coletados para entender o comportamento temporal e geográfico  das demandas de distribuição, valores e vendas.
-
-Fomos contratados para fazer um levantamento e realizar a análise dos dados da ANP - Agência Nacional de Petróleo, Gás Natural e Biocombustíveis e gerar um relatório para entender o comportamento dos combustíveis nos meses de Maio e Junho, nas diferentes regiões do Brasil
-para fazer uma análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol, que permitisse gerar insights e também fosse possível investigar as motivações de tais variações a partir dos resultados gerados através de dados fornecidos pela Agência. 
-
----
-## NOSSO OBJETIVO
-* Realizar a análise exploratória e descritiva afim de entender o comportamento dos preços de forma
-geral e isolada,
-* Entender as motivações e fornecer insights, 
-* Entender os resultados das estatísticas afim de direcionar as tomadas de decisões.
----
 ## QUESTÕES PRELIMINARES
 A partir dos dados fornecidos, tomaremos notas das principais questões abaixo: 
 1. Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma tendência de queda ou alta?
@@ -70,17 +56,3 @@ import seaborn as sns
 2. Abri a pasta usando seu colab
 3. Clicar em ambiente de execução
 4. Executar tudo
-
-# Contatos
-![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-
-Co-facilitador: [Fernando Casanova](https://www.linkedin.com/in/fernandocfs/)
-
-Gestor de Conhecimento: [Josean Borges](https://www.linkedin.com/in/joseanplborges)
-
-Gestor de Gente e Engajamento: [Matheus S Cordaro](https://www.linkedin.com/in/mscordaro/)
-
-
-
